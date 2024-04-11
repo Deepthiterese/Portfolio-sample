@@ -1,0 +1,86 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.one {
+    width: 50%;
+    height: 600px;
+    padding-top: 120px;
+    padding-left: 1px;
+    text-align: center;
+    text-decoration: solid
+}
+
+.two {
+    width: 50%;
+    height: 600px;
+    padding-right: 45px;
+    background-color: aliceblue;
+    padding-top: 100px;
+    text-align: center;
+    text-decoration: solid;
+}
+
+img {
+    width: 350px;
+    height: 250px;
+}
+
+.details {
+    padding-left: 40px;
+}
+
+#button1 {
+    background-color: #0b0c0b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 250px;
+}
+
+#button2 {
+    background-color: #0b0c0b;
+    border: none;
+    color: white;
+    padding: 15px 39px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 200px;
+    margin: auto;
+
+}
+#button3 {
+    background-color: #0b0c0b;
+    border: none;
+    color: white;
+    padding: 15px 39px;
+    padding-right: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 200px;
+    margin-left: 100px;
+
+}
+
+p {
+    text-align: center;
+    line-height: 40px;
+    padding-bottom: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#about {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
